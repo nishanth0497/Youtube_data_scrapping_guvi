@@ -18,3 +18,6 @@
 
 #### Check Below links for more info related to errors and detailed steps:
 
+ To know about the errors which you might encounter while doing this project, [click here](https://medium.com/@nishanthramasamy/my-first-project-and-the-errors-that-you-can-avoid-9a6ac1d1761f)
+ 
+
