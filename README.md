@@ -1,7 +1,7 @@
 ## Youtube_data_scrapping_and_analysis
 
 ### _Overview_:
- Extract youtube data using Google's youtube API and create a datalake in MongoDB. Retrive the data and perform analysis using sql
+ Extract youtube data using Google's youtube API and create a datalake in MongoDB. Retrieve the data and perform analysis using sql
 
 ### _Details_:
  1. This repository consists of _youtube_scrapping.py_ file, which enables users to collect data from any youtube channel. 
